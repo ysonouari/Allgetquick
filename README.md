@@ -27,9 +27,16 @@ Gestion des factures pour les **vendeurs** :
 - Boutiques physiques ou en ligne
 - Revendeurs d’articles divers
 
+## Télécharger l'application
+
+Cliquez ici pour télécharger l'APK :  
+https://github.com/ysonouari/Allgetquick/raw/refs/heads/main/Getquick.apk
+
 ## Support
+
 Pour toute question ou assistance, contactez-nous via **WhatsApp**.
 
 ---
 
 © 2025 GETQUICK. Tous droits réservés.
+
